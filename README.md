@@ -21,6 +21,6 @@ This system uses CNN-LSTM neural networks to recognize walking patterns from sma
 
 ### Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/walking-pattern-recognition.git
+git clone https://github.com/shravani-d-s/walking-pattern-recognition.git
 cd walking-pattern-recognition
 pip install -r requirements.txt
